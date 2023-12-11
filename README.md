@@ -20,8 +20,6 @@ This Python script serves as an automated tool for keeping you updated on the la
 
 - **User Configuration:** Implement a configuration file or user interface for easy customization of script parameters such as feed URL, email settings, and update frequency.
 
-- **Database Integration:** Store and manage a history of previously sent articles in a database for reference and analysis.
-
 - **Advanced Email Formatting:** Enhance email content with HTML formatting, embedded links, or additional metadata for a richer user experience.
 
 - **Logging and Error Handling:** Implement a robust logging system to capture errors, successful operations, and relevant information for troubleshooting.
